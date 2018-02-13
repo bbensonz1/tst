@@ -11,7 +11,7 @@ It's a real time app, that displays top 8 cryptocurrencies, based on their overa
 ## Demo
 
 <div align="center">
-  <img src="https://i.imgur.com/7552oLf.png" width=400px/>
+  <img src="https://i.imgur.com/7552oLf.png" width=800px/>
 </div>
 
 
