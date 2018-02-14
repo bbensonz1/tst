@@ -1,6 +1,6 @@
 # CryptoBase App
 
- <p><a href="https://krisrss.github.io/memory-game/" >Launch App</a></p>
+ <p><a href="https://krisrss.github.io/cryptobase/" >Launch App</a></p>
 
 It's a real time app, that displays top 8 cryptocurrencies, based on their overall circulating supply. It allows to see their current cost, overall market capitalization and circulating supply.
 
