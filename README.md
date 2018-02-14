@@ -1,9 +1,13 @@
-# Crypto Base App
+# CryptoBase App
 
-It's a real time app, that displays top 8 cryptocurrencies, based on their overall circulating supply. It allows to see their currenct cost, overall market captilization and circulating supply.
+ <p><a href="https://krisrss.github.io/memory-game/" >Launch App</a></p>
+
+It's a real time app, that displays top 8 cryptocurrencies, based on their overall circulating supply. It allows to see their current cost, overall market capitalization and circulating supply.
+
+
 
 ## Features
-* Developed, using AngularJS framework and routed by ui-router
+* Developed, using AngularJS framework and routed by <a href="https://github.com/angular-ui/ui-router" >ui-router</a>
 * Resonsive and mobile friendly, thanks to Bootstrap framework
 * Real-time data, obtained from A public cryptocurrency API CoinMarketCap
 * Deployed using Github Pages
