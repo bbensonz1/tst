@@ -8,9 +8,9 @@ It's a real time app, that displays top 8 cryptocurrencies, based on their overa
 
 ## Features
 * Developed, using AngularJS framework and routed by <a href="https://github.com/angular-ui/ui-router" >ui-router</a>
-* Resonsive and mobile friendly, thanks to Bootstrap framework
-* Real-time data, obtained from A public cryptocurrency API CoinMarketCap
-* Deployed using Github Pages
+* Responsive and mobile friendly, thanks to Bootstrap framework
+* Real-time data, obtained from a public cryptocurrency API <a href="https://coinmarketcap.com" >CoinMarketCap</a>
+* 'Deployed' using GitHub Pages
 
 ## Demo
 
@@ -27,4 +27,4 @@ It's a real time app, that displays top 8 cryptocurrencies, based on their overa
 ## Using locally
 * Clone/download the repo
 * Launch a local server such as XAMPP, and configure it
-* Navigat to localhost/cryptobase/#!/ in your browser
+* Navigate to localhost/cryptobase/#!/ in your browser
